@@ -1,0 +1,1 @@
+# Thraashing_cache_simulacao
