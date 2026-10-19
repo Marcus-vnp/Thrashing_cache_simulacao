@@ -125,8 +125,6 @@ O gráfico tem três painéis:
 
 Quando os dados permitem, o script também **estima** o tempo para as outras associatividades com um modelo calibrado nas suas medições. Se os misses de L1 e de L2 sobem juntos nos dados (como acontece quando a L2 tem poucas vias), o modelo não consegue separar os efeitos e a estimativa é omitida, com um aviso. O tempo medido corresponde sempre à L1 real da máquina.
 
-![Gráfico de misses e tempo](grafico_thrashing.png)
-
 ## Exemplo de resultado
 
 Máquina de teste: L1d de 8 vias e 64 conjuntos, L2 de 8 vias e 512 conjuntos. Tempo por acesso medido:
